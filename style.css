@@ -43,3 +43,50 @@ border: 0;
 margin-left: 300px;
 margin-bottom: 20px;
 }
+/*Failure section */
+.failure-section-container{
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 137px;
+}
+.failure-section-img{
+    width: 300px;
+    height: 300px;
+    border-radius:300px;
+background: rgba(241, 91, 34, 0.20);
+display: flex;
+align-items: center;
+
+}
+.failure-section-img img{
+    width: 351px;
+    height: 400px;
+    margin-top: -100px;
+
+}
+.failure-section-content{
+    margin-bottom: 200px;
+}
+.failure-section-title{
+    color:#151414;
+font-size: 40px;
+font-weight: 700;
+}
+.failure-section-desc{
+    padding-top: 24px;
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+}
+.list{
+    padding-top: 20px;
+    list-style-type: none;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+.check{
+    color: #16D887;
+}
