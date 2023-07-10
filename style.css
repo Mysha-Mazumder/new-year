@@ -90,3 +90,20 @@ font-weight: 400;
 .check{
     color: #16D887;
 }
+/*My plans*/
+.plans-title{
+    text-align: center;
+    color: #151414;
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 40px;
+}
+.my-plans-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+}
+/*call now section*/
